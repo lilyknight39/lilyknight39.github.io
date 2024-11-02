@@ -1,0 +1,23 @@
+title: "My Jekyll Site"
+description: "A personal website using Minimal Mistakes theme"
+baseurl: "" # 留空或指定项目路径
+url: "https://yourusername.github.io" # GitHub Pages URL
+
+# 使用 Remote Theme
+remote_theme: "mmistakes/minimal-mistakes" # 指定 Minimal Mistakes 主题
+plugins:
+  - jekyll-remote-theme # 确保启用远程主题插件
+  - jekyll-feed         # 可选，用于 RSS 订阅
+  - jekyll-sitemap      # 可选，用于生成站点地图
+
+# 网站作者信息
+author:
+  name: "Your Name"
+  email: "youremail@example.com"
+
+# 自定义导航（如果需要）
+nav:
+  - title: "Home"
+    url: "/"
+  - title: "About"
+    url: "/about/"
