@@ -117,7 +117,7 @@ author:
   avatar           : "/assets/images/avatar.png" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "@魚粉鎳幣P"
   location         : "深圳"
-  email            : "nickel@lilyknight.top
+  email            : "nickel@lilyknight.top"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
