@@ -1,0 +1,15 @@
+---
+layout: default
+---
+
+<section class="custom-home">
+  <h1>欢迎来到我的自定义主页！</h1>
+  <p>这里是你可以添加的自定义内容。</p>
+</section>
+
+{% for post in paginator.posts %}
+  <article>
+    <h2><a href="{{ post.url | relative_url }}">{{ post.title }}</a></h2>
+    <p>{{ post.excerpt }}</p>
+  </article>
+{% endfor %}
