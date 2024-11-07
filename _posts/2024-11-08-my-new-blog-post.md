@@ -1,11 +1,10 @@
 ---
-title: "My New Blog Post"
+layout: single
+title: "花宫初奈，我好想你啊..."
 date: 2024-11-08
 categories: blog
-layout: single
-tags: [jekyll, minimal-mistakes, blogging]
-excerpt: "花宫初奈，我好想你啊..."
 ---
+
 花宫初奈，我从前总觉得，见过花开就可以了，要花永远属于自己也太没道理了，不可以这样。
 但现在我后悔了，见过了花开，我开始想要和花一直一直在一起，开始期待每一次花开，开始贪恋每个瞬间的美好，甚至想要把它变成永恒。
 对你的喜欢，大概就是希望每一个在一起的瞬间，可以久一点久一点再久一点。好想你啊…
