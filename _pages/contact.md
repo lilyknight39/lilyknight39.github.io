@@ -44,7 +44,7 @@ permalink: /contact/
 </div>
 
 ### 留言给我
-<form action="https://formspree.io/your-email@example.com" method="POST" class="contact-form">
+<form action="https://usebasin.com/f/09ef249fd470" method="POST">
   <label for="name">姓名:</label>
   <input type="text" id="name" name="name" required>
 
@@ -54,5 +54,5 @@ permalink: /contact/
   <label for="message">信息:</label>
   <textarea id="message" name="message" rows="4" required></textarea>
 
-  <button type="submit" class="submit-button">发送</button>
+  <button type="submit">发送</button>
 </form>
