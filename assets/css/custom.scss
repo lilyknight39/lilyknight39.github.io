@@ -1,0 +1,8 @@
+.profile-photo {
+  width: 150px;          /* 设置头像的宽度 */
+  height: 150px;         /* 设置头像的高度 */
+  border-radius: 50%;    /* 将头像变成圆形 */
+  object-fit: cover;     /* 确保图片不会变形 */
+  margin-right: 20px;    /* 添加头像与文本之间的间距 */
+  float: left;           /* 让头像浮动在左侧 */
+}
