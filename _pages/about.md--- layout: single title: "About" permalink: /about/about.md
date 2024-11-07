@@ -5,7 +5,7 @@ permalink: /about/
 ---
 
 <div class="about-content">
-![我的头像](/assets/images/avatar.png){: .profile-photo }
+![My Photo](/assets/images/avatar.png){: .profile-photo }
 
 ## 你好，我是鱼粉！
 
