@@ -11,19 +11,13 @@ permalink: /contact/
 ### 社交媒体
 <ul class="social-links">
   <li>
-    <a href="https://x.com/Nickel2370" target="_blank">
-      <img src="https://upload.wikimedia.org/wikipedia/commons/c/ce/X_logo_2023.svg" alt="Twitter" class="social-icon"> Twitter
-    </a>
+    <a href="https://x.com/Nickel2370" target="_blank">Twitter</a>
   </li>
   <li>
-    <a href="https://weibo.com/u/2195844241" target="_blank">
-      <img src="https://upload.wikimedia.org/wikipedia/commons/2/2b/Tabler-icons_brand-weibo.svg" alt="Weibo" class="social-icon"> Weibo
-    </a>
+    <a href="https://weibo.com/u/2195844241" target="_blank">Weibo</a>
   </li>
   <li>
-    <a href="https://bsky.app/profile/lilyknight.top" target="_blank">
-      <img src="https://upload.wikimedia.org/wikipedia/commons/7/7a/Bluesky_Logo.svg" alt="Bluesky" class="social-icon"> Bluesky
-    </a>
+    <a href="https://bsky.app/profile/lilyknight.top" target="_blank">Bluesky</a>
   </li>
 </ul>
 
