@@ -4,7 +4,6 @@ title: "关于我"
 permalink: /about/
 ---
 
-<div class="about-content">
 ![My Photo](/assets/images/avatar.png){: .profile-photo }
 
 ## 你好，我是鱼粉！
@@ -23,4 +22,3 @@ permalink: /about/
 - [Bluesky](https://bsky.app/profile/lilyknight.top) - 也是注册了
 
 欢迎你和我交流
-</div>
