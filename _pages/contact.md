@@ -39,7 +39,7 @@ permalink: /contact/
     <li><strong>ミリシタ：</strong>38DACWUZ</li>
     <li><strong>Nintendo Switch Friend Code：</strong>SW-4947-1926-3481</li>
     <li><strong>PlayStation Network (PSN)：</strong>Nickel2370</li>
-    <li><strong>Steam：</strong><a href="[https://steamcommunity.com/id/my_steam_profile](https://steamcommunity.com/id/lilyknight23/)" target="_blank">my_steam_profile</a></li>
+    <li><strong>Steam：</strong><a href="https://steamcommunity.com/id/lilyknight23/" target="_blank">my_steam_profile</a></li>
   </ul>
 </div>
 
