@@ -4,7 +4,7 @@ title: "关于我"
 permalink: /about/
 ---
 
-![My Photo](/assets/images/avatar.jpg){: .align-left .profile-photo }
+![My Photo](/assets/images/avatar.png){: .align-left .profile-photo }
 
 ## 你好，我是鱼粉！
 
