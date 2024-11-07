@@ -323,4 +323,5 @@ defaults:
       comments: # true
       share: false
       related: true
-      future: true
+    
+future: true
