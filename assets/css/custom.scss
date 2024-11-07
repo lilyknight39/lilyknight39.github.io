@@ -7,9 +7,17 @@
   float: left;           /* 让头像浮动在左侧 */
 }
 
-/* 美化社交媒体链接 */
+/* 限制社交媒体图标的大小 */
+.social-icon {
+  width: 24px;             /* 设置图标的宽度 */
+  height: 24px;            /* 设置图标的高度 */
+  margin-right: 10px;      /* 图标与文字之间的间距 */
+  vertical-align: middle;  /* 图标和文字垂直居中 */
+}
+
+/* 美化社交媒体链接列表 */
 .social-links {
-  list-style-type: none;
+  list-style: none;
   padding: 0;
   margin: 20px 0;
 }
@@ -18,22 +26,7 @@
   margin-bottom: 10px;
 }
 
-.social-links a {
-  text-decoration: none;
-  color: #333;
-  font-size: 1.1em;
-  display: flex;
-  align-items: center;
-}
-
-.social-icon {
-  width: 20px;
-  height: 20px;
-  margin-right: 10px;
-  vertical-align: middle;
-}
-
-/* 联系表单样式 */
+/* 美化联系表单 */
 .contact-form {
   max-width: 600px;
   margin: 20px 0;
