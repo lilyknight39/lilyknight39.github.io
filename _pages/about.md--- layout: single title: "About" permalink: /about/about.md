@@ -4,16 +4,17 @@ title: "关于我"
 permalink: /about/
 ---
 
-![My Photo](/assets/images/avatar.png){: .profile-photo }
+<div class="about-content">
+![我的头像](/assets/images/avatar.png){: .profile-photo }
 
 ## 你好，我是鱼粉！
 
 我是一位热爱生活的普通人，喜欢在业余时间分享我的兴趣和发现。这里是一些我热爱的事情：
 
 ### 我的兴趣爱好
-- **旅行**：大多时间宅在家里不出门。
+- **旅行**：大多数时间宅在家里不出门。
 - **摄影**：不会摄影。
-- **音乐**：听音乐、现场音乐会以及女声优演奏乐器。
+- **音乐**：听音乐，现场音乐会以及女声优演奏乐器。
 - **阅读**：沉迷于红宝书、蓝宝书等各种书籍。
 
 ### 常用的社交平台
@@ -22,3 +23,4 @@ permalink: /about/
 - [Bluesky](https://bsky.app/profile/lilyknight.top) - 也是注册了
 
 欢迎你和我交流
+</div>
