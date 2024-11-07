@@ -3,7 +3,7 @@ layout: single
 title: "欢迎来到我的妙妙屋"
 ---
 
-![我的个人图片](path/to/your/image.jpg)
+![我的个人图片](/assets/images/btn_chara.png)
 
 ## 欢迎来到我的妙妙屋
 
