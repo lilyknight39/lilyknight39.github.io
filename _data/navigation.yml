@@ -11,10 +11,10 @@ main:
   - title: "Home"
     url: "/"         # 主页链接
   - title: "Blog"
-    url: "/docs/blog/"    # 博客页面链接
+    url: "/blog/"    # 博客页面链接
   - title: "About"
-    url: "/docs/about/"   # 关于页面链接
+    url: "/about/"   # 关于页面链接
   - title: "Contact"
-    url: "/docs/contact/" # 联系页面链接
+    url: "/contact/" # 联系页面链接
   - title: "十王 星南 オフィシャルサイト"
     url: https://juo-sena.idolmaster-official.jp/
