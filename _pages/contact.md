@@ -31,6 +31,8 @@ permalink: /contact/
   <ul>
     <li><strong>QQ：</strong>Dashwood</li>
     <li><strong>Telegram：</strong>@Lilyknight23</li>
+    <li><strong>LINE：</strong>nickel2370</li>
+    <li><strong>Discord：</strong>nickel2370</li>
   </ul>
 </div>
 
