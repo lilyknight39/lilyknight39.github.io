@@ -13,7 +13,7 @@ permalink: /about/
 ### 我的兴趣爱好
 - **旅行**：大多数时间宅在家里不出门。
 - **摄影**：不会摄影。
-- **音乐**：听音乐，现场音乐会以及女声优演奏乐器。
+- **音乐**：听音乐，现场音乐会以及[女声优演奏乐器](https://www.youtube.com/shorts/Vmwp09j1Otk?feature=share)。
 - **阅读**：沉迷于红宝书、蓝宝书等各种书籍。
 
 ### 常用的社交平台
@@ -21,4 +21,4 @@ permalink: /about/
 - [Weibo](https://weibo.com/u/2195844241) - 睡不着会转发黄浦春马
 - [Bluesky](https://bsky.app/profile/lilyknight.top) - 也是注册了
 
-欢迎你和我交流
+欢迎你和我交流。
