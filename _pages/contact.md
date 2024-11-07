@@ -19,6 +19,7 @@ permalink: /contact/
   <li>
     <a href="https://bsky.app/profile/lilyknight.top" target="_blank">Bluesky</a>
   </li>
+  <li>
     <a href="https://miki.live4you.one/@nickel" target="_blank">Misskey</a>
   </li>
 </ul>
