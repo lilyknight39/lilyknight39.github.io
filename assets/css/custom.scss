@@ -1,15 +1,8 @@
 .profile-photo {
-  width: 150px;          /* 设置头像的宽度 */
-  height: 150px;         /* 设置头像的高度 */
-  border-radius: 50%;    /* 将头像变成圆形 */
-  object-fit: cover;     /* 确保图片不会变形 */
-  margin-right: 20px;    /* 添加头像与文本之间的间距 */
+  width: 150px;          /* 控制头像大小 */
+  height: 150px;         /* 控制头像大小 */
+  border-radius: 50%;    /* 圆形头像 */
+  object-fit: cover;     /* 确保头像不变形 */
+  margin-right: 20px;    /* 添加头像与文字之间的间距 */
   float: left;           /* 让头像浮动在左侧 */
-}
-.about-content {
-  overflow: auto; /* 确保浮动内容不会影响整体布局 */
-}
-
-.about-content h2, .about-content p, .about-content ul {
-  margin-left: 170px; /* 确保头像左侧的内容和文本保持对齐 */
 }
