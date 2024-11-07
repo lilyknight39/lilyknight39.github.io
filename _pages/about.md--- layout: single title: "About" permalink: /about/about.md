@@ -20,5 +20,6 @@ permalink: /about/
 - [Twitter](https://x.com/Nickel2370) - 人力点赞转发机
 - [Weibo](https://weibo.com/u/2195844241) - 睡不着会转发黄浦春马
 - [Bluesky](https://bsky.app/profile/lilyknight.top) - 也是注册了
+- [Misskey](https://miki.live4you.one/@nickel) - 去中心化是好文明
 
 欢迎你和我交流。
