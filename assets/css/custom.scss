@@ -7,14 +7,34 @@
   float: left;           /* 让头像浮动在左侧 */
 }
 
-.social-link img {
+/* 美化社交媒体链接 */
+.social-links {
+  list-style-type: none;
+  padding: 0;
+  margin: 20px 0;
+}
+
+.social-links li {
+  margin-bottom: 10px;
+}
+
+.social-links a {
+  text-decoration: none;
+  color: #333;
+  font-size: 1.1em;
+  display: flex;
+  align-items: center;
+}
+
+.social-icon {
   width: 20px;
   height: 20px;
   margin-right: 10px;
   vertical-align: middle;
 }
 
-form {
+/* 联系表单样式 */
+.contact-form {
   max-width: 600px;
   margin: 20px 0;
   padding: 20px;
@@ -23,15 +43,15 @@ form {
   box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
 }
 
-form label {
+.contact-form label {
   display: block;
   font-weight: bold;
   margin-bottom: 5px;
 }
 
-form input[type="text"],
-form input[type="email"],
-form textarea {
+.contact-form input[type="text"],
+.contact-form input[type="email"],
+.contact-form textarea {
   width: 100%;
   padding: 10px;
   margin-bottom: 15px;
@@ -40,7 +60,7 @@ form textarea {
   font-size: 1em;
 }
 
-form button {
+.submit-button {
   padding: 10px 20px;
   font-size: 1em;
   color: #fff;
@@ -51,6 +71,6 @@ form button {
   transition: background-color 0.3s;
 }
 
-form button:hover {
+.submit-button:hover {
   background-color: #555;
 }
