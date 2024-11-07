@@ -8,8 +8,8 @@ main:
   #   url: /collection-archive/
   # - title: "Sitemap"
   #   url: /sitemap/
-  - title: "Home"
-    url: "/"         # 主页链接
+  #- title: "Home"
+  #  url: "/"         # 主页链接
   - title: "Blog"
     url: "/blog/"    # 博客页面链接
   - title: "About"
