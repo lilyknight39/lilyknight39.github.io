@@ -40,6 +40,7 @@ permalink: /contact/
 如果你喜欢玩游戏，可以通过以下 ID 找到我：
 <div class="contact-section">
   <ul>
+    <li><strong>アイプラ：</strong>QK3NQWUN</li>
     <li><strong>学マス：</strong>6WD2ZKYM</li>
     <li><strong>ミリシタ：</strong>38DACWUZ</li>
     <li><strong>Nintendo Switch Friend Code：</strong>SW-4947-1926-3481</li>
