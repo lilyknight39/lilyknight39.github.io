@@ -14,9 +14,6 @@ permalink: /contact/
     <a href="https://x.com/Nickel2370" target="_blank">Twitter</a>
   </li>
   <li>
-    <a href="https://weibo.com/u/2195844241" target="_blank">Weibo</a>
-  </li>
-  <li>
     <a href="https://bsky.app/profile/lilyknight.top" target="_blank">Bluesky</a>
   </li>
   <li>
@@ -29,7 +26,6 @@ permalink: /contact/
 
 <div class="contact-section">
   <ul>
-    <li><strong>QQ：</strong>Dashwood</li>
     <li><strong>Telegram：</strong>@Lilyknight23</li>
     <li><strong>LINE：</strong>nickel2370</li>
     <li><strong>Discord：</strong>nickel2370</li>
